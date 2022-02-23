@@ -47,7 +47,7 @@ Optionally, clean up/delete repository with
 
 #### Run
 
-In your image directory run the script with 
+In your video directory run the script with 
     
         python3 video_compressor.py
     or
@@ -58,7 +58,7 @@ In your image directory run the script with
 
 - [Install](https://ffmpeg.org/download.html) or [compile](https://trac.ffmpeg.org/wiki/CompilationGuide) the video processing library [FFMPEG](https://ffmpeg.org/)
 - Download this repository or `git clone https://github.com/warneat/video-compressor` like above.
-- move the image-compressor.py script to desired location and run it from there with `python .\video_compressor.py`
+- move the video_compressor.py script to desired location and run it from there with `python .\video_compressor.py`
 
 
 ### Optional: Quality adjustments
