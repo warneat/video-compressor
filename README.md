@@ -1,7 +1,7 @@
 ## video-compressor
 
 (tl;dr) compress your videos in VID_YYYYMMDD_xxxxxx.jpg format into subfolders sorted by years with reduced filesize.<br />
-For images, see also: ([image-compressor](https://github.com/warneat/image-compressor/))
+For images, see also: [image-compressor](https://github.com/warneat/image-compressor/)
 <br />
 
 ### Use-case:
